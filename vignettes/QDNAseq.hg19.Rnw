@@ -38,19 +38,7 @@ are listed as follows
 \begin{Schunk}
 \begin{Sinput}
 > data(package="QDNAseq.hg19")
-Data sets in package ‘QDNAseq.hg19’:
-
-hg19.1000kbp.SR50          
-hg19.100kbp.SR50           
-hg19.10kbp.SR50            
-hg19.15kbp.SR50            
-hg19.1kbp.SR50             
-hg19.30kbp.SR50            
-hg19.500kbp.SR50           
-hg19.50kbp.SR50            
-hg19.5kbp.SR50  
-
-> bins <- loadBinAnnotation(binSize=15)
+> bins <- getBinAnnotation(binSize=15)
 > bins
 QDNAseq bin annotations for Hsapiens, build hg19.
 Created by Ilari Scheinin with QDNAseq 0.7.5, 2014-02-06 12:48:04.
