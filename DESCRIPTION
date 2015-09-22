@@ -1,8 +1,8 @@
 Package: QDNAseq.hg19
 Type: Package
 Title: QDNAseq bin annotation for hg19
-Version: 0.99.0
-Date: 2015-08-12
+Version: 0.99.1
+Date: 2015-09-22
 Author: Daoud Sie [aut, cre]
 Maintainer: Daoud Sie <d.sie@vumc.nl>
 Description: This package provides QDNAseq bin annotations for the human genome 
