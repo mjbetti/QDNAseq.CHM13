@@ -1,7 +1,7 @@
 #########################################################################/**
 # @RdocData hg19.1000kbp.SR50
 #
-# @title "hg19 1000kbp bin annotations"
+# @title "Hg19 1000kbp bin annotations"
 # 
 # \description{ The annotated data frame contains pre calculated data for
 # each bin describing:
@@ -22,7 +22,7 @@
 #########################################################################/**
 # @RdocData hg19.500kbp.SR50
 #
-# @title "hg19 500kbp bin annotations"
+# @title "Hg19 500kbp bin annotations"
 # 
 # \description{ The annotated data frame contains pre calculated data for
 # each bin describing:
@@ -43,7 +43,7 @@
 #########################################################################/**
 # @RdocData hg19.100kbp.SR50
 #
-# @title "hg19 100kbp bin annotations"
+# @title "Hg19 100kbp bin annotations"
 # 
 # \description{ The annotated data frame contains pre calculated data for
 # each bin describing:
@@ -64,7 +64,7 @@
 #########################################################################/**
 # @RdocData hg19.50kbp.SR50
 #
-# @title "hg19 50kbp bin annotations"
+# @title "Hg19 50kbp bin annotations"
 # 
 # \description{ The annotated data frame contains pre calculated data for
 # each bin describing:
@@ -85,7 +85,7 @@
 #########################################################################/**
 # @RdocData hg19.30kbp.SR50
 #
-# @title "hg19 30kbp bin annotations"
+# @title "Hg19 30kbp bin annotations"
 # 
 # \description{ The annotated data frame contains pre calculated data for
 # each bin describing:
@@ -106,7 +106,7 @@
 #########################################################################/**
 # @RdocData hg19.15kbp.SR50
 #
-# @title "hg19 15kbp bin annotations"
+# @title "Hg19 15kbp bin annotations"
 # 
 # \description{ The annotated data frame contains pre calculated data for
 # each bin describing:
@@ -127,7 +127,7 @@
 #########################################################################/**
 # @RdocData hg19.10kbp.SR50
 #
-# @title "hg19 10kbp bin annotations"
+# @title "Hg19 10kbp bin annotations"
 # 
 # \description{ The annotated data frame contains pre calculated data for
 # each bin describing:
@@ -148,7 +148,7 @@
 #########################################################################/**
 # @RdocData hg19.5kbp.SR50
 #
-# @title "hg19 5kbp bin annotations"
+# @title "Hg19 5kbp bin annotations"
 # 
 # \description{ The annotated data frame contains pre calculated data for
 # each bin describing:
@@ -169,7 +169,7 @@
 #########################################################################/**
 # @RdocData hg19.1kbp.SR50
 #
-# @title "hg19 1kbp bin annotations"
+# @title "Hg19 1kbp bin annotations"
 # 
 # \description{ The annotated data frame contains pre calculated data for
 # each bin describing:
